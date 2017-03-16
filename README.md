@@ -1,2 +1,3 @@
 # hello-world
-My First Program
+Hi Humans, this is...
+My Very First Program :)
